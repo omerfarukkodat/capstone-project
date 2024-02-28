@@ -31,7 +31,7 @@ This repository contains the development and implementation of a Center of Press
 1. Clone the repository:
 
     ```bash
-    git clone https://github.com/your-username/center-of-pressure-tool.git
+    git clone https://github.com/omerfarukkodat/center-of-pressure-tool.git
     cd center-of-pressure-tool
     ```
 
